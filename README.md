@@ -12,9 +12,7 @@
 # Speech Recognition API
 [MDN](https://developer.mozilla.org/zh-TW/docs/Web/API/SpeechRecognition)
 
-
 ----
-
 
 ## Browser Support
 Only Google Chrome
@@ -40,7 +38,7 @@ Text To Sound
 [MDN](https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesisUtterance)
 
 ----
-()
+
 ## Browser Support
 Except IE and Opera, all browser support this api
 
